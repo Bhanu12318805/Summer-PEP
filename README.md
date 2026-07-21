@@ -12,6 +12,7 @@
 | [0055-jump-game](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,8 +42,13 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
