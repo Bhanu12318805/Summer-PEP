@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0057-insert-interval) |
 ## Dynamic Programming
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
