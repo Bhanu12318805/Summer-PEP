@@ -15,6 +15,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
@@ -59,4 +61,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
