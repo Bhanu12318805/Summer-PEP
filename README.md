@@ -14,4 +14,8 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
