@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0045-jump-game-ii) |
 | [0057-insert-interval](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0057-insert-interval) |
 ## Dynamic Programming
@@ -19,4 +20,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
