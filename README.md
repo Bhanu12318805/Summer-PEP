@@ -35,6 +35,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0055-jump-game](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 ## Trie
 |  |
 | ------- |
@@ -108,6 +111,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
