@@ -44,6 +44,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 ## Trie
 |  |
 | ------- |
@@ -157,6 +158,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
