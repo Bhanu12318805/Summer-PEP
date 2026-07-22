@@ -70,6 +70,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +100,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
