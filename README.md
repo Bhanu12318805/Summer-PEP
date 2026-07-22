@@ -26,6 +26,7 @@
 | [0410-split-array-largest-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [0055-jump-game](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +208,7 @@
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
