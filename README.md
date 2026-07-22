@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
