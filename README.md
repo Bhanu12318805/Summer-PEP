@@ -152,6 +152,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -199,6 +200,7 @@
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
 ## Hash Table
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
 ## Simulation
 |  |
 | ------- |
@@ -250,4 +253,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
