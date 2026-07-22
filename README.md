@@ -20,6 +20,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@
 | [0075-sort-colors](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
 ## Stack
 |  |
 | ------- |
