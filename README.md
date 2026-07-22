@@ -64,6 +64,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -284,4 +285,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
