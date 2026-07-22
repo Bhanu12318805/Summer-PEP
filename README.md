@@ -23,6 +23,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,6 +113,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
