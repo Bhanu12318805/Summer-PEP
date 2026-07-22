@@ -129,6 +129,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -150,6 +151,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0450-delete-node-in-a-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
