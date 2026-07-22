@@ -21,6 +21,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +151,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -162,4 +166,8 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
