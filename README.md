@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
+| [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
 ## Stack
 |  |
 | ------- |
