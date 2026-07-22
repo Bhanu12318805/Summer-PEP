@@ -40,6 +40,7 @@
 | [0007-reverse-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
 ## String
 |  |
 | ------- |
@@ -187,4 +188,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
