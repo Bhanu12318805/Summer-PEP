@@ -140,6 +140,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0662-maximum-width-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
