@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0875-koko-eating-bananas) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -152,6 +154,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,6 +227,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,4 +309,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0796-rotate-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
