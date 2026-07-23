@@ -30,6 +30,7 @@
 | [0704-binary-search](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Dynamic Programming
 |  |
@@ -104,6 +105,7 @@
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0542-01-matrix) |
+| [0994-rotting-oranges](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0994-rotting-oranges) |
 ## Two Pointers
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0994-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
