@@ -32,6 +32,7 @@
 | [0875-koko-eating-bananas](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Sorting
 |  |
 | ------- |
