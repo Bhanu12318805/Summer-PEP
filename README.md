@@ -70,6 +70,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1021-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
