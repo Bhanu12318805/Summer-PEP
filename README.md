@@ -35,6 +35,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1260-shift-2d-grid) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [0704-binary-search](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Sorting
 |  |
 | ------- |
