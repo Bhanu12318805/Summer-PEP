@@ -318,6 +318,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -334,6 +335,7 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0138-copy-list-with-random-pointer) |
 ## Union-Find
 |  |
 | ------- |
