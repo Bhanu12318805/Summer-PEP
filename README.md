@@ -84,6 +84,7 @@
 | [0796-rotate-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -372,4 +373,8 @@
 | [0207-course-schedule](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0802-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
