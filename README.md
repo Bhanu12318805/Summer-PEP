@@ -78,6 +78,7 @@
 | [0009-palindrome-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -335,6 +337,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1260-shift-2d-grid) |
@@ -399,5 +402,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0067-add-binary) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
