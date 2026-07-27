@@ -40,6 +40,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1901-find-a-peak-element-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | [0258-add-digits](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1903-largest-odd-number-in-string) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -377,4 +379,9 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
