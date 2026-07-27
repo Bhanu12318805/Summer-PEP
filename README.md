@@ -43,6 +43,7 @@
 | [1539-kth-missing-positive-number](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1901-find-a-peak-element-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3693-climbing-stairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Bhanu12318805/Summer-PEP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3693-climbing-stairs-ii](https://github.com/Bhanu12318805/Summer-PEP/tree/master/3693-climbing-stairs-ii) |
 ## Greedy
 |  |
 | ------- |
