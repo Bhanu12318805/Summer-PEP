@@ -23,6 +23,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0162-find-peak-element) |
@@ -315,6 +316,7 @@
 | [0013-roman-to-integer](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -334,6 +336,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Bhanu12318805/Summer-PEP/tree/master/0547-number-of-provinces) |
